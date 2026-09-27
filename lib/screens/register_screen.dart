@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import '../components/custom_button.dart';
+import '../components/custom_primary_button.dart';
 import '../components/custom_text_field.dart';
 
 class RegisterScreen extends StatelessWidget {
